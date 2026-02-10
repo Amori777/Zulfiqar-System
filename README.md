@@ -44,7 +44,7 @@ This project contains:
 ## 🌐 Live Demo
 
 **Experience the horror directly in your browser:**
-[Click here to start the ritual](https://amori777.github.io/Zulfiqar-System/)
+[Click here to start the ritual](https://3mrlogic.github.io/Zulfiqar-System/)
 
 ---
 *Developed by **3mrlogic** to examine your brain cells... Bad luck.* 🩸
